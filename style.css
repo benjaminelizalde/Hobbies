@@ -1,14 +1,14 @@
 p{
-text-color: white;
+color: white;
 }
 
 h1{
-text-size: 200%;
-text-color: white;
+font-size: 200%;
+color: white;
 }
 
 body{
-background-color: Grey;
+background color: Grey;
 }
 
 img{
