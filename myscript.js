@@ -1,5 +1,7 @@
-&(document).ready(function(){
-$("p").click(function(){
-		$("p").hide();
+
+$(document).ready(function(){
+$(".disappear").click(function(){
+		$(".disappear").hide();
 	})
 })
+
